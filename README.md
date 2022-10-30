@@ -1,2 +1,1 @@
-# Learn-Scrap-Selenium
-Web scraping linkedin job post with selenium
+# Learn Selenium Scrape on LinkedIn Job Post
