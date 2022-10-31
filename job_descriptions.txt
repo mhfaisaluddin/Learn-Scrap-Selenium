@@ -1,0 +1,1502 @@
+About the job
+Qualifications :
+Fresh graduate, final year undergraduate or new professional (less than 2 years experience) in Data Analyst, Data Engineer or Data Scientist
+Bachelor degree in Computer Science, Information Technology, Statistics or Mathematics
+Demonstrable technical capabilities
+Comfortable working with large numbers/data
+Fast learning capability and curiosity about data
+Good personality and track records
+About the job
+We’re looking for Data Science position with minimum 1 years of experience manipulating data sets and building statistical models, has a bachelor or master in Statistics, Mathematics, Computer Science or another quantitative field, and is familiar with the following software/tools:
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyse data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modelling to increase and optimize customer experiences, revenue generation, churn, ads targeting and other business outcomes.
+Develop company A/B testing framework and test model quality.
+Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets.
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modelling, clustering, decision trees, neural networks, etc.
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, MySQL, etc.
+Experience visualizing/presenting data for stakeholders using: QGIS, Rstudio, Business Objects, D3, ggplot, etc.
+Experience with Knime AI platform is a plus
+About the job
+Responsibilities:
+Lead a team of Data Engineers to build data products which support Data Analysts and Product team
+Collaborate with Data Analysts on data projects, in context of data analysis strategies and accomodations
+Design, optimize, test, implement, and improve data pipelines
+Maintain data quality
+Build, develop and maintain data infrastructure
+Monitor data infrastructure budget
+Create and maintain data catalogue and access control
+Provide risk awareness on data changes
+Collaborate with Product team and stakeholders
+
+Requirements:
+Bachelor's Degree in Software Engineering / Computer Science / Information Technology / equivalent or relevant work experience
+5+ years of experience in data engineering role
+Proficiency in Python, MySQL, MongoDB, Big Query
+Hands-on experience of handling various data sources
+Hands-on experience of maintaining data infrastructure and ETL/ELT processes
+Hands-on experience of building data pipelines or using data pipeline tools
+Familiarity with PowerBI/Google Data Studio/Tableau or other similar tools
+Experience of writing clear and concise documentations
+Effective written and communication skills in English and Indonesian
+Experience of working in agile and fast-paced environment
+Willing to work in Lippo St.Moritz Tower, West Jakarta
+About the job
+Teaching Assistant
+(Part-time and Remote)
+At Pacmann Academy
+
+---
+Are you currently an active undergraduate student and having the aspiration to have a data related industry career in the future? Or are you looking for the opportunity to learn about Data Analytics, Data Scientist and/or Business Management? This role might be suitable for you.
+---
+
+About Pacmann
+Pacmann is an intensive data & business analytics school in Indonesia. We provide our students with in-depth curriculum to build a career in Data Analytics, Data Scientist, or Management & Business Strategist. By joining our Teaching Assistant program you will get free access to our learning program and opportunity to connect and learn with our academic lecturer
+
+Classes currently open
+Introduction to Data and Visualization
+Probability
+Python
+Data Wrangling and SQL
+Statistics for Business
+Business Analytics
+Sampling
+Experimental Design and A/B Testing
+Introduction to Machine Learning
+Machine Learning Process
+Introduction to Product Management & Business Strategy
+Business Process Management
+Financial Business Simulation
+
+Qualifications
+Undergraduate Students (currently in the 4th-8th semester) or Master Student
+Preferably in major:
+Mathematics, Statistics or similar field (Class No. 2, 5-8 )
+Computer Science or a similar field (Class No. 1, 3, 4, 9, 10)
+Economy, Accounting, Business & Management or a similar field (Class No. 11-13)
+Highly initiative person and able to work in a team
+Possess an excellent written and verbal communication ability, as well as critical thinking skill
+Committed throughout the program for 6 months
+Familiar with Python programming language (for all classes)
+
+Responsibilities:
+Conduct mentoring 2-3 sessions per week (60-100 minutes/session)
+Guide class discussion groups (online)
+Assist live class operations via Zoom
+
+What you can expect
+Remote work
+Time commitment: part-time job
+Attractive Income
+
+Selection stages
+Please send your Resume to this link https://bit.ly/application_teaching_assistant before Sunday, November 6th 2022, 23.59 WIB.
+Technical Test
+User Interview
+Offering
+
+Additional pieces of information
+Only shortlisted candidates will be contacted
+For any questions, please email zakiya@pacmannai.com
+About the job
+The purpose of this role is to provide real-world experience, learning industry technical and professional skills, abilities and activities to contribute to the Dentsu network, especially in data and cloud technology implementation
+
+Job Title:
+
+Data Engineer Intern
+
+Job Description:
+
+Key responsibilities:
+Learn about data management and cloud technology
+Explore on data integration data pipeline, and ETL/ELT data processing
+Discover data cleansing and transformation
+Create documentation as technical writer
+Works in a team-based, fast-paced, detail-oriented environment
+Is resourceful, has an aptitude for learning new skills and initiative to participate in advanced projects
+Conducts research to support business needs
+Utilises platforms to manage and update team / client programmes
+Supports the goals and initiatives of the team / client / business
+Gains industry exposure
+Participates in networking and mentorship opportunities
+
+Qualifications:
+Fresh graduates with minimum GPA 3.00
+Major in Computer Science, Information System, Information Technology, and Informatics Engineering
+Interest and strong passion in data, and cloud technology
+Fast learner and self motivated
+Have positive attitude
+Proactive and initiative
+Good interpersonal and communication skill
+Able to work as a team
+Experience in student organization is a plus
+Comfortable with business English
+
+Location:
+
+Jakarta
+
+Brand:
+
+Merkle
+
+Time Type:
+
+Full time
+
+Contract Type:
+
+Independent Contractor
+About the job
+Main Functions
+
+Lead Data Analyst team to collect data from a variety of sources, review, and interpret using data analysis tools to provide meaningful information and insights to help stakeholders make more informed decisions
+
+Main Responsibilities & Duties
+
+Conducting analysis to assess the quality and meaning of data.
+Identify, analyze, and interpret patterns and trends in complex datasets that can aid diagnosis and prediction.
+Analyze data to find answers to specific questions/problems.
+Work with internal teams to identify process improvement opportunities, propose system modifications, and develop data governance strategies .
+Define metrics based on data availability to achieve an operational improvement strategy.
+Provide recommendations on the flow, availability, completeness, and validity of data.
+Optimizing existing processes.
+Fostering cooperation between the data management team and other internal teams.
+Provide clear guidance to the team to carry out activities.
+
+Job Requirements
+
+Minimum 5 years of experience in the field of data analytics.
+Have leadership experience, both leading teams and leading projects.
+
+Powered by JazzHR
+
+RQcUnt3wmk
+About the job
+We are expanding our Data team and looking for Data Engineer to join our team.
+
+Job Responsibilities:
+Maintaining & monitoring existing, & create a new ETL process
+Serving data for data scientists or other stakeholders-Doing data visualization on our viz tools
+Gathering data from new sources
+Collaborate with a data scientist on ML project
+
+Job Requirements:
+Min 2 years of working experience as a Data Engineer
+Strong knowledge of SQL
+Experienced in one or more programming languages used to develop data: Python, Bash, and javascript
+Experienced using Airflow or DBT
+Experienced to visualize data using Metabase
+High detailed & curiosity and a good team player
+
+Good Luck!
+About the job
+Certified Specific Independent Study
+About the job
+593169BR
+
+Introduction
+
+Have you heard about IBM Client Engineering?
+
+It's a cross-functional team that delivers a unique client co-creation experience to accelerate client transformation.
+We use Enterprise Design Thinking, our industry-leading IBM Garage Methodology and IBM's multidisciplinary experts at full speed from the start. - - We design, develop, test, and deliver solutions. Startup speed. Enterprise scale. We apply user-centric approaches to ensure all features add value.
+Data Scientists in IBM’s Client Engineering are part of a cross-functional team that delivers a unique client co-creation experience to accelerate client transformation.
+As part of an entrepreneurial team, you will be the Subject Matter Expert on Data and AI Statistical models and how they apply to business problems.
+Led by a Data Scientist, you will advise on and help implement models in Machine Learning, Optimization, Neural Networks, and Artificial Intelligence such as Natural Language, and other quantitative approaches.
+You will act as a key contributor to a pre-sales team, partnering with clients, and other IBM teams to understand business problems and propose solutions.
+You will contribute to co-creation of rapid proofs of concept and minimally viable solutions that demonstrate business value, leading to client investment in strategic solutions.
+You will translate business problems into leading-edge analytics solutions using consulting skills, industry expertise and technical knowledge.
+You will deliver meaningful insights and predicts emerging trends to inform business solutions that optimize client value.
+
+Your Role and Responsibilities
+
+To be successful in this role you will need to:
+
+Be familiar with Data Engineering techniques to gather, prepare, cleanse, and transforms client data for analysis and AI automation, including automating data pipelines
+Demonstrate strong business acumen and ability to understand business problems, formulate hypotheses and test conclusions to influence solution design
+Leverage a variety of structured and unstructured data sources, analytics, AI tools, and programming languages to derive meaningful data insights (e.g., Python, R, Spark, TensorFlow, Jupyter, etc.)
+Possess relevant industry and/or business domain knowledge such as Finance or Health Care which you will apply to shape solutions
+Take a user-centric approach to design and creates compelling prototypes that lead to transformative change for the client.
+Work in an Agile fashion, iterating on the design to react to client feedback and demonstrate rapid progress.
+Expand partnerships at all levels of the client organization to identify new opportunities for data science applications
+
+Data Engineer within Client Engineering at IBM
+
+Client Engineering, we’re a resource for one another, sharing our experiences. We expect you to demonstrate a growth mindset and keep learning – and contribute what you learn back to our practice. And you’ll be part of the IBM Client Engineering ecosystem, read more here: https://www.ibm.com/employment/client-experience/#garage
+
+Required Professional And Technical Expertise
+
+At least 10 years as a Data Scientist with a deep understanding of Statistics and statistical practices.
+At least 5 years of experience with identifying data sources, transforming data, etc.
+Experience with a Data Science Programming language, such as Python or R.
+Preferably 3 years’ experience in a client-facing role, including facilitating client discussions and problem framing
+
+Required Technical and Professional Expertise
+
+As above.
+
+Preferred Technical And Professional Expertise
+
+As above.
+
+About Business Unit
+
+IBM has a global presence, operating in more than 175 countries with a broad-based geographic distribution of revenue. The company’s Global Markets organization is a strategic sales business unit that manages IBM’s global footprint, working closely with dedicated country-based operating units to serve clients locally. These country teams have client relationship managers who lead integrated teams of consultants, solution specialists and delivery professionals to enable clients’ growth and innovation. By complementing local expertise with global experience and digital capabilities, IBM builds deep and broad-based client relationships. This local management focus fosters speed in supporting clients, addressing new markets and making investments in emerging opportunities. Additionally, the Global Markets organization serves clients with expertise in their industry as well as through the products and services that IBM and partners supply. IBM is also expanding its reach to new and existing clients through digital marketplaces.
+
+Your Life @ IBM
+
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+About the job
+Job Description:
+
+Life at Grab
+
+At Grab, every Grabber is guided by The Grab Way, which spells out our mission, how we believe we can achieve it, and our operating principles - the 4Hs: Heart, Hunger, Honour and Humility. These principles guide and help us make decisions as we work to create economic empowerment for the people of Southeast Asia.
+
+Get to Know The Team
+
+The Platform Safety and Quality team is responsible for all safety and quality-related aspects of the platform and directly supports all Grab’s business verticals and teams across the region. This team drives initiatives to improve User Safety and Quality (consumers, driver-partners, merchants): accidents, harm, food safety and hygiene management, and crime by influencing tech solutions, local policies, frameworks, communications and training as well as sharpening internal processes.
+
+Get to Know The role
+
+This is a regional role where you will have the opportunity to work with cross functional teams as well as country teams to execute projects around maintaining high standards of safety and quality of Grab users. You will collect data, identify gaps, and propose possibilities to improve the efficiency and efficacy of operations. You will also improve or create automation tools to manage the safety and quality standard across the business in Grab. You will also support the team to drive strategic initiatives by re-imagining new or existing operations and solving complex operational problems.
+
+Day-to-Day Activities
+
+Analysis of rich user behavioural data to surface patterns, trends, and insightsthat help inform Grab’s safety and quality frameworks and contribute to prevention mechanisms;
+Develop and communicate insights and recommended actions to stakeholders to manage risk through effective visualisation of data
+Develop and improve frameworks and its associated data pipeline, policies and process on user safety and quality;
+Operationalise strategic processes/changes and leverage on tools to automate manual operations
+Drive standardisation and documentation of processes, ensuring changes are communicated effectively to all stakeholders.
+Work cross-functionally with country and regional stakeholders to gather input and execute new policies and processes
+Support any ad hoc tasks assigned by the team
+
+The Must-Haves
+
+Possess at least a quantitative Bachelor’s Degree in the following fields- Degree in Computer Engineering, Business Analyst, Information Technology, Data Sciences, Maths or related fields.)
+Up to two (2) years of professional working experience as a hands-on analyst in a high-tech company
+Strong experience in handling large-scale unstructured data. Experience in SQL or other data handling tools, as well as the ability to uncover insights from the data
+Business intelligence experience using tools such as Tableau, Power BI and Google Sheets..
+Working experience with automation tools such as Slide and Airflow is an added advantage
+The flexibility to work cross-functionally, independently or virtually in a minimally structured and fast-paced environment.
+“Go-getter” attitude and always willing to help other members of the team wherever needed
+Highly adaptable across situations and industries
+Demonstrate strong interest and understanding of Grab’s business
+About the job
+593168BR
+
+Introduction
+
+Have you heard about IBM Client Engineering?
+
+It's a cross-functional team that delivers a unique client co-creation experience to accelerate client transformation.
+We use Enterprise Design Thinking, our industry-leading IBM Garage Methodology and IBM's multidisciplinary experts at full speed from the start. - - We design, develop, test, and deliver solutions. Startup speed. Enterprise scale. We apply user-centric approaches to ensure all features add value.
+Data Scientists in IBM’s Client Engineering are part of a cross-functional team that delivers a unique client co-creation experience to accelerate client transformation.
+As part of an entrepreneurial team, you will be the Subject Matter Expert on Data and AI Statistical models and how they apply to business problems.
+Led by a Data Scientist, you will advise on and help implement models in Machine Learning, Optimization, Neural Networks, and Artificial Intelligence such as Natural Language, and other quantitative approaches.
+You will act as a key contributor to a pre-sales team, partnering with clients, and other IBM teams to understand business problems and propose solutions.
+You will contribute to co-creation of rapid proofs of concept and minimally viable solutions that demonstrate business value, leading to client investment in strategic solutions.
+You will translate business problems into leading-edge analytics solutions using consulting skills, industry expertise and technical knowledge.
+You will deliver meaningful insights and predicts emerging trends to inform business solutions that optimize client value.
+
+Your Role and Responsibilities
+
+To be successful in this role you will need to:
+
+Be familiar with Data Engineering techniques to gather, prepare, cleanse, and transforms client data for analysis and AI automation, including automating data pipelines
+Demonstrate strong business acumen and ability to understand business problems, formulate hypotheses and test conclusions to influence solution design
+Leverage a variety of structured and unstructured data sources, analytics, AI tools, and programming languages to derive meaningful data insights (e.g., Python, R, Spark, TensorFlow, Jupyter, etc.)
+Possess relevant industry and/or business domain knowledge such as Finance or Health Care which you will apply to shape solutions
+Take a user-centric approach to design and creates compelling prototypes that lead to transformative change for the client.
+Work in an Agile fashion, iterating on the design to react to client feedback and demonstrate rapid progress.
+Expand partnerships at all levels of the client organization to identify new opportunities for data science applications
+
+Data Engineer within Client Engineering at IBM
+
+Client Engineering, we’re a resource for one another, sharing our experiences. We expect you to demonstrate a growth mindset and keep learning – and contribute what you learn back to our practice. And you’ll be part of the IBM Client Engineering ecosystem, read more here: https://www.ibm.com/employment/client-experience/#garage
+
+Required Professional And Technical Expertise
+
+At least 10 years as a Data Scientist with a deep understanding of Statistics and statistical practices.
+At least 5 years of experience with identifying data sources, transforming data, etc.
+Experience with a Data Science Programming language, such as Python or R.
+Preferably 3 years’ experience in a client-facing role, including facilitating client discussions and problem framing
+
+Required Technical and Professional Expertise
+
+As above.
+
+Preferred Technical And Professional Expertise
+
+As above.
+
+About Business Unit
+
+IBM has a global presence, operating in more than 175 countries with a broad-based geographic distribution of revenue. The company’s Global Markets organization is a strategic sales business unit that manages IBM’s global footprint, working closely with dedicated country-based operating units to serve clients locally. These country teams have client relationship managers who lead integrated teams of consultants, solution specialists and delivery professionals to enable clients’ growth and innovation. By complementing local expertise with global experience and digital capabilities, IBM builds deep and broad-based client relationships. This local management focus fosters speed in supporting clients, addressing new markets and making investments in emerging opportunities. Additionally, the Global Markets organization serves clients with expertise in their industry as well as through the products and services that IBM and partners supply. IBM is also expanding its reach to new and existing clients through digital marketplaces.
+
+Your Life @ IBM
+
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+About the job
+Be a part of a revolutionary change
+
+At PMI, we’ve chosen to do something incredible. We’re totally transforming our business and building our future on one clear purpose – to deliver a smoke-free future.
+
+With huge change, comes huge opportunity. So, wherever you join us, you’ll enjoy the freedom to dream up and deliver better, brighter solutions and the space to move your career forward in endlessly different directions.
+
+Sales and Marketing at PMI feels like building a new business – but with the accumulated expertise of a global brand behind you. Bring us your curiosity and capacity to engage people and you can be part of the digital, omni-channel team that’s driving our huge commercial transformation.
+
+If you’re a forecaster and forward-thinker, you can make a huge impact, creating sales strategies across all markets. But, here, your innovation will do more than just improving sales. You’re not persuading someone to savings account or try a new drinks brand.
+
+Your 'day to day'
+
+As Commercial Ecosystem Executive, you will have the opportunity to facilitate and catalyze data-driven decision making for business.
+
+You will drive the operation of data-driven solutions, ensuring the quality, credibility and integrity of our business intelligence and reporting tools in monitoring business activities as well as supporting the growth and sustainability of our digital ecosystem. As Commercial Ecosystem Executive, you will spend time
+Maintaining and continuously improving business intelligence and reporting tools.
+Analyzing data, generating reports and visualizations for guiding and forecasting programs and activities.
+Continuously monitor, evaluate and enhance data products such as recommender system & other AI/ML algorithms.
+Discovering new initiatives that will support the business.
+Building and maintaining framework and documentations of data intelligence related activities and projects.
+Collaborating to gather and build requirements with other stakeholders as well as act as a data consultant in advocating transformation through data-driven digital solutions.
+Besides working in a Team with a strong passion to deliver, innovate and grow; you will collaborate with cross-functional stakeholders including but not limited to business stakeholders, data engineering and IT teams.
+
+Who we're looking for
+Bachelor degree holder (S1) from Computer Science or other related majors
+Have at least 2 years of experience working with data & technology
+Fluent in English & Bahasa Indonesia, both written and verbal
+It will help your journey if you have the followings
+Have a strong communication, collaboration, and interpersonal skills.
+Have analytical mindset and able to translate business requirements to technical implementation.
+Comfortable working with data & technology
+Understanding of data analytics and knowledge of statistical methods.
+The following skills will be advantageous
+Proficient in business intelligence and data visualization tools such as Power BI/Tablaeu/Cognos, MS. Excel.
+Familiarity with SQL for datamining, data preparation and transformation.
+What we offer
+
+Our success depends on our talented employees who come to work here every single day with a sense of purpose and an appetite for progress. Join PMI and you too can
+Seize the freedom to define your future and ours. We’ll empower you to take risks, experiment and explore.
+Be part of an inclusive, diverse culture, where everyone’s contribution is respected; collaborate with some of the world’s best people and feel like you belong.
+Pursue your ambitions and develop your skills with a global business – our staggering size and scale provides endless opportunities to progress.
+Take pride in delivering our promise to society to deliver a smoke-free future
+To join our growing team…
+About the job
+This job is sourced from a job board. Learn more
+Role Responsibilities
+Build out new features within applications to improve user experience
+Implement machine learning algorithm to improve expense categorization
+Monitor and provide assistance for app management in finding and fixing bugs
+Ensure and take responsibility in delivering high-quality mobile applications
+Assist to analyze and resolve problems when issues come up
+Role Requirements
+3rd/Final year undergraduate student strictly from Computer Science/Informatics Engineering related major
+Good in English & Bahasa Indonesia, sufficient in conducting effective verbal and written communication
+Has a basic skills/familiar with NodeJs and Javascript
+Has a good documentation & reporting scripting skills
+Familiar with Nest.js module, database/datastore experience in MongoDB and PostgreSQL will be a plus
+About the job
+The purpose of this role is to work on products and solutions developed internally and lead the product development towards business and client objectives.
+
+Job Title:
+
+Data Scientist
+
+Job Description:
+
+We are at Merkle
+
+Merkle is a leading data-driven, technology-enabled, global performance marketing agency that specializes in the delivery of unique, personalized customer experiences across platforms and devices. For more than 30 years, Fortune 1000 companies and leading nonprofit organizations have partnered with Merkle to maximize the value of their customer portfolios. The agency’s heritage in data, technology, and analytics forms the foundation for its unmatched skills in understanding consumer insights that drive people-based marketing strategies. Its combined strengths in performance media, customer experience, customer relationship management, loyalty, and enterprise marketing technology drive improved marketing results and competitive advantage. With 9,600+ employees, Merkle is headquartered in Columbia, Maryland, with 50+ additional offices throughout the US, EMEA, and APAC. In 2016, the agency joined the Dentsu Aegis Network. For more information, contact Merkle visit www.merkleinc.com.
+
+Requirements
+You have 1-2+ years experience in data & technology role
+You are extremely familiar with Marketing Technology Platform
+You have some experience up and running your codebase in production environment
+You have strong skills in programming language (Python) either building a product or creating a machine learning model
+
+Responsibilities
+Collaborate with the client and account team to understand client business objectives, data architecture, and business processes.
+Design and develop data solutions to solve client business objectives
+Maintain good coding standards, practices and create proper technical documentation.
+Collaborate with the project manager and technical lead to update progress status.
+
+Our Cloud & Data Team Process
+
+We are a small team with engineering and data science backgrounds that build our internal products and deliver a solution to our clients. As a Google Cloud Platform Partner, we deliver the advanced products that build on top of Google Cloud Platform. Notable and interesting products currently we are working on (that can be interested to you as well),
+Customized-based Customer Data Platform (DSIGHT ™)
+Advanced Attribution Model (Fractribution, Multi-Touch Attribution)
+Ads Data Hub
+
+Technical Stack
+
+Google Cloud Platform Partner
+
+BigQuery as Centralized Data Warehouse
+
+Data Lake
+
+Python
+
+Airflow
+
+Fractribution
+
+ADH
+
+Join the force and send your resume to:
+franheit.sangapta@dentsu.com
+aryanto.aryanto@dentsu.com
+
+Location:
+
+Jakarta
+
+Brand:
+
+Merkle
+
+Time Type:
+
+Full time
+
+Contract Type:
+
+Permanent
+About the job
+This job is sourced from a job board. Learn more
+Job Description
+Contribute to task delivery such as performing descriptive analysis, and enhancing dashboard/query for data warehouse
+Contribute to building and maintaining the dashboard
+Explore inefficiency businesses and develop data-driven solutions across subdepartments in operation
+Collaborate with all operating divisions to solve workflow inefficiencies and problem
+Requirements
+Currently in the last year or recently finished students from reputable universities majoring in Industrial Engineering with GPA >=3.5
+Being passionate, having strong teamwork, and demonstrating a ‘get things done spirit will make you successful in this program.
+Have good interpersonal and communication skills
+Available for at least 3 months, and have a chance to be hired into a full-time job
+Familiar/willing to learn with performing data mining (SQL, google sheets,)
+Love to work with numbers
+About the job
+Job Id: 22573461
+
+The Business Analytics Analyst is a developing professional role. Applies specialty area knowledge in monitoring, assessing, analyzing and/or evaluating processes and data. Identifies policy gaps and formulates policies. Interprets data and makes recommendations. Researches and interprets factual information. Identifies inconsistencies in data or results, defines business issues and formulates recommendations on policies, procedures or practices. Integrates established disciplinary knowledge within own specialty area with basic understanding of related industry practices. Good understanding of how the team interacts with others in accomplishing the objectives of the area. Develops working knowledge of industry practices and standards. Limited but direct impact on the business through the quality of the tasks/services provided. Impact of the job holder is restricted to own team.
+
+Responsibilities:
+
+Gathers operational data from various cross functional stakeholders to examine past business performance
+Identifies data patterns & trends, and provides insights to enhance business decision making capability in business planning, process improvement, solution assessment etc.
+Recommends actions for future developments & strategic business opportunities, as well as enhancements to operational policies
+May be involved in exploratory data analysis, confirmatory data analysis and/or qualitative analysis
+Translate data into consumer or customer behavioral insights to drive targeting and segmentation strategies, and communicate clearly and effectively to business partners and senior leaders all findings
+Continuously improve processes and strategies by exploring and evaluating new data sources, tools, and capabilities
+Work closely with internal and external business partners in building, implementing, tracking and improving decision strategies
+Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+
+Qualifications:
+
+0-2 years relevant experience
+Good communication skills (both verbal and written) and ability to work with cross-functional partners and team members
+
+Education:
+
+Bachelors/University degree or equivalent experience
+
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+
+-------------------------------------------------
+
+Job Family Group:
+
+Decision Management
+
+-------------------------------------------------
+
+Job Family:
+
+Business Analysis
+
+------------------------------------------------------
+
+Time Type:
+
+Full time
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the "EEO is the Law" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting
+About the job
+This job is sourced from a job board. Learn more
+Binar Academy is an end to end platform that focuses on technology education and digital talent recruitment. We claimed ourselves as the pioneer ed-tech platform focusing on developing digital skills through a defined learning path and diverse learning style to provide confidence in career growth for young talent.
+
+Currently, our technology team will expand and getting bigger to create an impact for our technology education in Indonesia and currently we’re looking for Data Analyst for our Hiring Partner at Binar Academy!
+Analyze and organize raw data;
+Build data systems and pipelines;
+Evaluate business needs and objectives;
+Prepare data for prescriptive and predictive modeling;
+Combine raw information from different sources;
+Collaborate with data scientists and architects on several projects
+Minimum Qualifications
+Strong analytical and planning skills;
+Good communication and presentation skills;
+Proven working experience 1-3 years as a data analyst, engineer or in a similar role;
+Passion with data and trends analysis, statistics, program evaluations, forecasting, and business insights
+Understand data analytics, python and SQL
+Excellent problem-solving skills.
+About the job
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Overview:
+
+The Agoda Content department is currently looking for a curious and questioning self-starter and proactive analyst, who will help drive decision making with insights from content, marketing and partner performance data.
+
+You will get the opportunity to own analytical projects to direct our department’s focus, and prioritize our actions. By joining Agoda, you will become part of a truly international team, with leading experts of different backgrounds coming from 50+ countries around the world. This is a genuine opportunity to gain valuable experience in a challenging and cutting-edge tech environment. The ideal candidate would have a passion for high-converting content, great user-experience, data and analysis tools and methods. This position reports to the Associate Director of Content Operations, in Bangkok, Thailand.
+
+Main responsibilities:
+
+Understand Content goals and KPIs and be able to align reports and insights based on them. Identify and investigate trends, anomalies and opportunities to improve Agoda’s Content strategy
+Identify content opportunities that drive customer value, bookings and conversion
+Help build business cases around the opportunity and get buy-in from stakeholders
+Ensure appropriate data/tools/dashboards to measure execution and enable deeper analysis
+Track execution and report up in regular updates
+Work with product, data/BI team and IT to create data resources and build appropriate reporting
+Work with Content team leads to understand their business needs and identify opportunities in terms of team actions prioritization and focus
+Use multiple data sources to report Content projects insights and impact; support Content tests and experiments
+Encourage and train the Content team in best practice use of Agoda data, analysis techniques and interpretation
+Coordinate with other Cross Functional departments like Analytics, Partner Services, and Product Owners
+Use Web-Analytics for Research and Analysis
+
+Requirements:
+
+Bachelor degree or higher
+2+ years of relevant experience
+Experience / knowledge in statistics, SQL, Python/R, Tableau and advanced Excel – required
+Ability to demonstrate data manipulation using data warehouse and create meaningful insight and visualization
+Experience / knowledge in Vertica and / or Impala – advantage
+Experience in generating data and / or preparing experiments for product development – advantage
+
+Professional characteristics:
+
+Attentive to detail and committed to data integrity
+Keen and curious nature; able and willing to share your opinion
+Organized; able to manage multiple, competing priorities and deliver results under tight deadlines
+Able to communicate effectively; fluent in English – both spoken and written
+
+#STRA#ANLS#MRKT#3 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #washdc #tirana #yerevan #sydney #melbourne #perth #vienna #graz #linz #baku #minsk #brussels #antwerp #ghent #charleroi #liege #saopaolo #sofia #toronto #vancouver #montreal #shanghai #beijing #shenzhen #zagreb #cyprus #prague #Brno #Ostrava #copenhagen #cairo #alexandria #giza #estonia #helsinki #paris #nice #marseille #rouen #lyon #toulouse #tbilisi #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #dublin #telaviv #milan #rome #naples #turin #palermo #venice #bologna #florence #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #amman #irbid #riga #beirut #tripoli #vilnius #luxembourg #kualalumpur #malta #chisinau #amsterdam #oslo #jerusalem #manila #warsaw #krakow #sintra #lisbon #porto #braga #cascais #loures #amadora #almada #doha #alrayyan #bucharest #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #belgrade #singapore #bratislava #capetown #johannesburg #seoul #barcelona #madrid #valencia #seville #bilbao #malaga #oviedo #alicante #laspalmas #zaragozbanga #stockholm #zurich #geneva #basel #taipei #tainan #taichung #kaohsiung #Phuket #bangkok #istanbul #ankara #izmir #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #sanaa #taiz #aden #gibraltar #marrakech #lodz #wroclaw #poznan #Gdansk #szczecin #bydgoszcz #lublin #katowice #rio #salvador #fortaleza #brasilia #belo #belem #manaus #curitiba #portoalegre #saoluis data representation data analysis SQL data analytics analytics python (programming language) data mining data science r (programming language) tableau analytical skills data visualization databases business analysis business intelligence (bi) microsoft sql server machine learning statistics microsoft power bi java finance shopee traveloka google facebook ctrip trip.com makemytrip grab amazon pandas (software) artificial intelligence (ai) information technology capital one accenture upwork deloitte mckinsey bain microsoft uber lyft gojek lazada alibaba shopify expedia skyscanner
+
+Equal Opportunity Employer
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+About the job
+This job is sourced from a job board. Learn more
+Requirements
+Bachelor’s degree in Computer Science, Informatics, or related major
+Minimum 1 years of experience in Visual Analytic using Python
+Maximum 35 years old
+Knowledgeable in ML Framework like Tensorflow, Pytorch or Darknet are preferable.
+Strong hands-on skill in Linux & Python
+Familiar with Jupyter Notebook & versioning system (Git).
+Able to work individually or in a team
+About the job
+Data Analyst in Business Automation
+We are currently seeking a passionate Data Analyst to join our intelligent Automation Team and help us discover the information hidden in vast amounts of data and help us make smarter decisions to deliver even better products.
+Your primary focus will be to conduct ETL, analysis, reporting, visualization and dashboarding of large amount of data. You will also be applying process mining techniques to extract insights from business processes by the means of analyzing the event data generated during the execution of the business processes, with the end goal to discover, model, monitor and optimize the underlying processes. With your help, we want to shorten the process discovery cycle, monitor process conformance by identifying patterns in the data and identify process bottlenecks as well as communicating it efficiently with stakeholders. This role will rely heavily on effective communication, creative solutions, thorough documentation, and timely delivery.
+
+Responsibilities:
+Conduct ETL process for multiple event logs to be ready to be used for Process Mining Analysis.
+Create visualization and dashboard to improve and monitor product or process performance.
+Collaborate with product management and engineering departments to understand company needs and devise possible solutions.
+Enhancing data collection procedures to include information that is relevant for building our analytical systems
+Processing, cleansing, and verifying the integrity of data used for analysis.
+Doing ad-hoc analysis and presenting results in a clean manner.
+
+Requirements:
+At least 1 year of relevant experience.
+Strong quantitative and problem-solving skills.
+Have strong knowledge in Python for data processing.
+Solid understanding of Statistics, Data Manipulation, Visualization and Dashboarding, demonstrated experience in working with SQL, log files, Tableau, Metabase or alike.
+Communication skills to engage with business stakeholders to understand their needs and effectively communicate the results of the analytical solutions
+Ability to write comprehensive and concise technical documentation
+Experience in Process Mining software (i.e. Disco) and UiPath Automation tool will be a plus.
+
+About the Business Automation team:
+DANA Business Automation team is laser focused on using any means to automate several business processes that are usually handled manually by humans to make the processes fast, cost-effective, reliable, scalable, and constantly improving. The team consists of few passionate members of various roles and skills, including Statistics, Machine Learning, Business Optimisation, Robotic Process to Psychology, to solve the ever-increasing complexity of financial technology.
+
+About DANA:
+What is DANA? DANA is a Financial Technology (FinTech) company that aims to bring inclusive financial services to Indonesia. With the mission of "bring the world equal opportunities", DANA is dedicated to creating financial services platform through technology innovations. As a highly secured and scalable payment service platform, our goal is to provide consumers and small businesses with safe and convenient inclusive financial services and to cater to the needs of our customers.
+About the job
+CharCentric is an ambitious technology firm that offers consultancy, implementation, infrastructure, and development services to emerging and established businesses worldwide.
+
+As part of our strategy to grow and serve more clients, we are looking for an experienced Software Engineer with exceptional qualities.
+
+Tasks
+
+The scope of work involves:
+Following an internal software development process.
+Performing analysis on requirements to identify potential gaps & dependencies, determine feasibility and time/effort required for designing, implementing, and testing individual components.
+Writing detailed technical requirements.
+Writing technical design documents with UML diagrams.
+Implementing technical designs either solo or in a team.
+Writing good unit, integration and e2e tests.
+Attending internal calls, design meetings and discussions.
+Communicating progress on a daily through meetings and Jira.
+Handling direct client communication.
+Monitoring issues that are reported by our clients.
+Providing technical support to clients when requested.
+
+Requirements
+
+CharCentric takes pride in its clients and does its best to ensure all projects not only be completed successfully but also in style. Hence, self-driven engineers with a can-do attitude are critical to our success.
+
+The expertise required:
+JavaScript and/or TypeScript.
+ReactJS and/or NextJS frameworks.
+CubeJS & Data Visualization using CubeJS Hooks and charting libraries (e.g., d3, AmCharts, HighCharts, etc.).
+Docker
+Git & Version Control
+SQL Databases (e.g., BigQuery, SQL Server)
+Software architecture
+
+Our ideal candidate is an engineer who can demonstrate:
+Great communication skills.
+Great problem-solving skills.
+Working as part of a team, or leadership skills.
+Ability to write and speak English clearly.
+Quick learning and high adaptability.
+Writing high-quality code and delivering high-quality solutions.
+Designing & architecting software according to requirements.
+Experience with databases and writing efficient queries.
+Good handle of client communication.
+
+Minimum Qualifications:
+A bachelor’s degree in Information Technology, Computer Science, Software Engineering, Computer Engineering or other relevant disciplines OR a portfolio of high-quality projects.
+About the job
+This job is sourced from a job board. Learn more
+What is it like to be our Business Intelligence? As a BI & Analytics Team, you’ll define and implement BI & analytics strategies, enabling DANA to uncover actionable insights and opportunities from our existing data. You will be in charge of the day-to-day analytical requirements of the BI team, communicating issues, suggesting remedial action and improvements where appropriate. You will proactively suggest improvements for visualization, generating charts/tables that give insightful views of key business issues and opportunities. You’ll be accountable for data integrity and quality, ensuring it is continuously maintained and improved. What criteria are we looking for? Minimum 2 years experience in Analytics or Business Intelligence Excellent communication, organization, and presentation skills. In-depth knowledge of Microsoft Excel, Word, and Powerpoint Familiar with one or more languages for querying (e.g. SQL, PostgreSQL) Experience with Big Data/Analytics Platform like R, Python, SAS Experience with BI tools like Tableau, Looker, or similar.
+About the job
+At Deloitte, we offer a unique and exceptional career experience to inspire and empower talents like you to make an impact that matters for our clients, people and community. Deloitte offers you a highly inclusive, collaborative workplace and unrivalled opportunities to realize your full potential. We are always looking for people with the relentless energy to push themselves further, and to find new avenues and unique ways to reach our shared goals.
+
+Work you will do
+
+This role sits within the Analytics and Cognitive team of Deloitte Southeast Asia, which encompasses data, analytics and cognitive automation (CA). As a leader of this group, you will drive the growth of our CA business in the region and be responsible for the creation, sale and delivery of CA solutions: robotic process automation, intelligent character recognition, chatbots/virtual assistants and artificial intelligence
+
+The Analytics & Cognitive team leverages the power of data, analytics, robotics, science and cognitive technologies to uncover hidden relationships from vast troves of data, generate insights, and inform decision-making. Together with the Strategy practice, our Strategy & Analytics portfolio helps clients transform their business by architecting organizational intelligence programs and differentiated strategies to win in their chosen markets.
+
+You must have strong implementation experience in one or more of the following competencies and enabling technologies:
+Designing and developing data integration (including batch/real-time, ETL/ELT) processes with a variety of structured and unstructured data with tools such as Informatica, Talend, Pentaho PDI or AWS Glue.
+Applying analytical models to predict business outcomes with tools such as Dataiku, DataRobot or TensorFlow, Keras or pyTorch.
+Good understanding of AI/ML processes and algorithms like k-means clustering, propensity models, text analytics, predictive models.
+Enough About Us, Let's Talk About You
+
+If you are someone with:
+A good honors Degree, preferably at postgraduate level, in Computer Science, Software Engineering, Statistics, Mathematics or related disciplines.
+Extensive experience in Big 4 or MNC Consulting firm or industry related role.
+Minimum of 4 years (C) or 6 years (SC) of relevant experience with solid experience in the in Data Science real-world applications
+Experience in data analytic programming tools ie. SAS, R and Python Scripting
+Deep and hands-on experience in deriving actionable insights from data and quantifying business impact, preferably with experience on developing insights and analytics on enterprise platform operations
+Strong commitment to professional client service excellence.
+Ability to work independently, to work in a fast paced and demanding environment
+You have strong understanding of either structured and unstructured data mining, visualisation and analytics or Intelligent Automation
+Excellent interpersonal relations and demonstrated ability to work with others effectively in teams.
+Superior verbal and written communication skills including a proven track record in developing and conducting interviews, focus groups and presentations.
+Strong business acumen with the ability to develop and present new ideas and conceptualise new approaches and solutions.
+In addition to strong client service orientation, we are also seeking talented leaders who have the capability to deliver quality solutions with superior analytical and problem solving skills. Besides excellent interpersonal and communication skills, candidates should have proven demonstration of sound business acumen, teamwork and leadership qualities. An appreciation of the consulting lifestyle and ability to travel is a pre-requisite.
+
+Next Steps
+
+So what are you waiting for? Join the winning team now.
+
+Due to volume of applications, we regret only shortlisted candidates will be notified.
+
+Requisition ID: 96916
+
+In Indonesia, the services are provided by Imelda & Rekan and other related entities in Indonesia ("Deloitte in Indonesia"), which are affiliates of Deloitte Southeast Asia Ltd. Deloitte Southeast Asia Ltd is a member firm of Deloitte Touche Tohmatsu Limited. Deloitte in Indonesia, which is within the Deloitte Network, is the entity that is providing this Website.
+About the job
+Do you want to join a team of IT professionals who apply their skills to bring groundbreaking, technology-based capabilities and automation to life? There are tons of phenomenal technologies in the world…especially Information Technology is dynamically evolving in very wide areas. In Proctor and Gamble, we fully utilize them to improve consumers' life and grow our business. The mission of IT is to marry RIGHT technologies to RIGHT consumer/business needs, which allows you to obtain very different excitements, experiences and skills. We are looking for a person who is very passionate and capable to drive business transformation, work process digitization and data analytics through technologies with your IT knowledge and expertise.
+
+What We Offer
+
+You will have business responsibilities from Day 1 – working on at least one or two big projects.
+You will receive continuous coaching & mentorship– We are passionate about our work. We will make sure you receive both formal training and as regular mentorship from your manager and others.
+You will join our dynamic and supportive IT teams and work closely with colleagues from other functions – We live our Purpose, Values, and Principles daily. We value every individual and encourage initiatives promoting agility and work/life balance.
+You will work in flexible work arrangements.
+
+Internship Information
+
+Our interns are considered the best pipeline of talent for our Permanent positions. Based on your performance, you may get full time job offer from P&G.
+
+Qualifications
+
+You are a top talent, current university student that preferably has graduated or has less than 2 years to graduate (graduation year of 2022 & 2023)
+Available to do full-time internship for 3 months/12 weeks
+Open to all fields of study, but majors in industrial/chemical engineering/computer science and/or having experience with digitization & automation, data analytics/science are preferred.
+You are an excellent visionary, with strategic and fearless leadership skills
+You display strong teamwork, analytical skills, problem solving and solutions oriented mindset especially during issues
+You have an ability to drive innovation and brand growth
+You have the ability to handle multiple priorities
+You take initiative and show flexibility
+You are brave and willing to learn new things
+You are English proficient (written and spoken)
+
+About Us
+
+We produce globally recognized brands and we grow the best business leaders in the industry. With a portfolio of trusted brands as diverse as ours, it is paramount our leaders are able to lead with courage the vast array of brands, categories and functions. We serve consumers around the world with one of the strongest portfolios of trusted, quality, leadership brands, including Always®, Ariel®, Gillette®, Head & Shoulders®, Herbal Essences®, Oral-B®, Pampers®, Pantene®, Tampax® and more. Our community includes operations in approximately 70 countries worldwide.
+
+Visit http://www.pg.com to know more.
+
+Our consumers are diverse and our talents - internally - mirror this diversity to best serve it. That is why we’re committed to building a winning culture based on Inclusion and our ideal candidate is passionate about the same principle: you will join our daily effort of being “in touch” so we craft brands and products to improve the lives of the world’s consumers now and in the future. We want you to inspire us with your unrivaled ideas.
+
+We are committed to providing equal opportunities in employment. We do not discriminate against individuals on the basis of race, color, gender, age, national origin, religion, sexual orientation, gender identity or expression, marital status, citizenship, disability, veteran status, HIV/AIDS status, or any other legally protected factor.
+About the job
+Description
+
+JSI Research & Training Institute, Inc. (JSI) is a public health management consulting and research organization dedicated to improving the health of individuals and communities throughout the world over the last forty years. The Country Health Information Systems and Data Use program (CHISU) is a five year USAID funded cooperative agreement (2020-2025) led by JSI and focused on strengthening health information systems (HIS), enabling sharing of data between systems and its use, and supporting countries’ self-reliance by enhancing capacity for local leadership and engagement in every aspect of health data.
+
+CHISU Indonesia will support the Ministry of Health (MOH) of Indonesia, in their efforts to increase COVID-19 vaccination rates through strengthening governance, systems and interoperability, and data analysis and use for COVID-19 in Indonesia. CHISU seeks a consultant embedded to the MOH’s Digital Transformation Office (DTO) as a technical focal point for all data engineering activities for the CHISU for COVID-19 workplan. The COVID-19 Data Engineer reports directly to the COVID-19 Technical Activity Coordinator with dotted line supervision to the Senior Technical Advisor for CHISU Indonesia and Chief Data Officer of the DTO.
+
+Place of Performance: Jakarta, Indonesia
+
+Estimated Period of Performance (to be finalized prior to signing of consulting agreement): 8 months; November 2022- June 30, 2022
+
+Estimated Level of Effort (to be finalized prior to signing of consulting agreement): 20 working days per month or 160 days total
+
+Activity Manager and Reporting Structure: Reports directly to the COVID-19 Technical Activity Coordinator with dotted line supervision to the Senior Technical Advisor for CHISU Indonesia and Chief Data Officer of the DTO. The COVID-19 Data Engineer will work closely with the CHISU for COVID-19 Interoperability Specialist and COVID-19 Data Management Specialist, to ensure technical coordination on knowledge, skills, tools, and best practices.
+
+Responsibilities
+
+The COVID-19 Data Engineer is the technical focal point for all data engineering activities for the CHISU for COVID-19 project who:
+Creates COVID-19 vaccination information system architecture for SATUSEHAT and advises on the development and implementation of the roadmap for streamlining and optimizing COVID-19 vaccination information systems, applications, platforms and dashboards, such as Satu Data Satu Dashboard.
+Leads technical implementation of all activities related to enhancing SatuSehat and PeduliLindungi for COVID-19 vaccination, resulting in an updated COVID-19 vaccination module, with technical documentation for SatuSehat and PeduliLindungi including:
+Uses advanced database management skills, such as SQL, NoSQL, relational databases, as well as the specific existing COVID-19 databases (e.g., mysql, postgres, Elasticsearch, Redis, MongoDB) to support integration and improved management and visualization of COVID-19 vaccination data.
+Builds and optimizes big data pipelines, architectures, and data sets for improvements in the exchange of COVID-19 vaccination data between relevant COVID-19 information systems, platforms and applications.
+Builds extract, transform and load processes for the same and manages the cloud technology for COVID-19 data storage.
+Builds processes supporting data transformation, data structures, metadata, dependencies, and workload management in accordance with national COVID-19 prevention and mitigation efforts to streamline existing COVID-19 information systems, dashboards, platforms and applications.
+Leads activities related to improving and institutionalizing management, quality improvement and use of COVID-19 data at the national and subnational level, as well as data use tools and information products. Conducts data use needs assessment on COVID-19 data processes to answer specific COVID-19 vaccination business questions and identify opportunities for streamlining and update of COVID-19 vaccination dashboards. Uses the same to update the COVID-19 vaccination dashboards in Satu Data Satu Dashboard.
+Works closely with the Center for Data and Information to support handover and institutionalization of all processes, products, and overall achievements.
+Collaborate closely with CHISU Indonesia on the implementation of all technical activities and deliverables.
+Expected Deliverables
+COVID-19 vaccination information system architecture.
+Updated COVID-19 vaccination module for SatuSehat and technical documentation.
+Updated COVID-19 vaccination for PeduliLindungi and technical documentation.
+Updated COVID-19 vaccination dashboards in Satu Data Satu Dashboard.
+Weekly reports on activity progress and contributions to regular CHISU for COVID-19 reporting as requested.
+Progress deliverables to demonstrate milestone achievements on detailed tasks (to be specified in consulting agreement).
+Qualifications
+Bachelor’s degree or higher in one of the following disciplines: computer science, health informatics, information systems, mathematics or statistics, software engineering, or a related technical discipline or the equivalent combination of education, technical training, and/or work experience is required.
+6 years of relevant experience with interoperability and implementation experience, with working knowledge of Health IT standards such as FHIR is required.
+Strong understanding of COVID-19 data analysis, visualization and use practices in Indonesia.
+Experience with business process analysis, workflow, requirements specification development, and data modeling is required.
+Strong understanding of COVID-19 information systems, platforms and applications in Indonesia.
+Experience with the development of IHE profiles and implementation guides is required.
+Working knowledge and experience with agile software development is required.
+Project management experience preferably in health IT is highly desirable.
+Proficient with Online Tools such as Google Workspace (Docs, Sheets, Slides, Meet, Drive), Slack, and Microsoft Office.
+Excellent interpersonal skills, including the ability to work closely and in an integrated manner with a multidisciplinary team is required.
+Native/Fluent Bahasa and practical knowledge of English required.
+About the job
+A 3D-AI fashion technology company providing high relevance and satisfaction for shoppers while transforming the apparel industry is looking for a 3D Data Scientist. The candidate will work with other top global talents experienced in technology, data science, apparel design, marketing, and retail to develop and shape the product. The company is backed by leading investors, institutional firms, and multi-billion dollar retailers, with the technology being used by enterprise retail clients in the industry. This is a nice opportunity to join a fast-growing start-up guided by core values to build quality products focusing on speed, accuracy, and rapid growth.
+
+Job Responsibilities:
+
+Contribute to the processing of 3D body scans
+Write and implement code to improve the 3D matching algorithms and apply them to several categories
+Work closely with the software application and web developers to push the 3D matching algorithms into production
+Assisting in testing and measuring the accuracy of the matching algorithms
+Perform data cleaning and analysis when needed
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a data scientist
+High proficiency in Matlab and Excel/Google Sheet formulas
+Deep expertise in statistics and data analysis skills
+Strong communication skills
+Solid Python and Octave coding experience
+Knowledge of machine learning and data mining
+Experience in SQL, Github, Amazon AWS, Swift, R
+About the job
+A multi-billion pharmaceutical giant is looking for a Junior ML Engineer. As a core member of a well-established team, the engineer will work on building models using machine learning techniques to power AI-based applications. Strong Python skills and a passion for data is important in this role. The company is listed in Fortune 500 in terms of revenue and is one of the only two US-based companies that have a prime credit rating of AAA. The company is worth over $435 bn. This is a once-in-a-lifetime opportunity for those who want to work with a multi-billion dollar MNC.
+
+Job Responsibilities:
+
+Apply your knowledge in the domain of AI/ML to create products with a great user experience
+Understand project requirements to design an effective roadmap and manage the overall project lifecycle
+Design and develop highly scalable models/tools/classifiers/algorithms with the help of AI and Machine Learning principles and techniques
+Influence the technical direction of the projects and collaborate with cross-functional teams to communicate technical details effectively
+Continuously integrate and ship code into the cloud environment
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Computer Science (or equivalent experience)
+2+ years of hands-on real-world experience
+Strong Python skills and love for data
+Understanding of machine learning libraries, predictive modeling, pattern recognition, data mining, and recommendation systems
+Knowledge of Artificial Neural Networks and Deep Learning Frameworks
+Deep understanding of large systems, complex code bases, and version control systems such as Git
+About the job
+585153BR
+
+Introduction
+
+Have you heard about IBM Client Engineering?
+
+It's a cross-functional team that delivers a unique client co-creation experience to accelerate client transformation.
+We use Enterprise Design Thinking, our industry-leading IBM Garage Methodology and IBM's multidisciplinary experts at full speed from the start. - - We design, develop, test, and deliver solutions. Startup speed. Enterprise scale. We apply user-centric approaches to ensure all features add value.
+Data Scientists in IBM’s Client Engineering are part of a cross-functional team that delivers a unique client co-creation experience to accelerate client transformation.
+As part of an entrepreneurial team, you will be the Subject Matter Expert on Data and AI Statistical models and how they apply to business problems.
+Led by a Data Scientist, you will advise on and help implement models in Machine Learning, Optimization, Neural Networks, and Artificial Intelligence such as Natural Language, and other quantitative approaches.
+You will act as a key contributor to a pre-sales team, partnering with clients, and other IBM teams to understand business problems and propose solutions.
+You will contribute to co-creation of rapid proofs of concept and minimally viable solutions that demonstrate business value, leading to client investment in strategic solutions.
+You will translate business problems into leading-edge analytics solutions using consulting skills, industry expertise and technical knowledge.
+You will deliver meaningful insights and predicts emerging trends to inform business solutions that optimize client value.
+
+Your Role and Responsibilities
+
+To be successful in this role you will need to:
+
+Be familiar with Data Engineering techniques to gather, prepare, cleanse, and transforms client data for analysis and AI automation, including automating data pipelines
+Demonstrate strong business acumen and ability to understand business problems, formulate hypotheses and test conclusions to influence solution design
+Leverage a variety of structured and unstructured data sources, analytics, AI tools, and programming languages to derive meaningful data insights (e.g., Python, R, Spark, TensorFlow, Jupyter, etc.)
+Possess relevant industry and/or business domain knowledge such as Finance or Health Care which you will apply to shape solutions
+Take a user-centric approach to design and creates compelling prototypes that lead to transformative change for the client.
+Work in an Agile fashion, iterating on the design to react to client feedback and demonstrate rapid progress.
+Expand partnerships at all levels of the client organization to identify new opportunities for data science applications
+
+Data Engineer within Client Engineering at IBM
+
+Client Engineering, we’re a resource for one another, sharing our experiences. We expect you to demonstrate a growth mindset and keep learning – and contribute what you learn back to our practice. And you’ll be part of the IBM Client Engineering ecosystem, read more here: https://www.ibm.com/employment/client-experience/#garage
+
+Required Technical and Professional Expertise
+
+At least 2 years as a Data Scientist with a deep understanding of Statistics and statistical practices.
+At least 2 years of experience with identifying data sources, transforming data, etc.
+Experience with a Data Science Programming language, such as Python or R.
+
+Preferred Technical And Professional Expertise
+
+Preferably 2 years’ experience in a client-facing role, including facilitating client discussions and problem framing.
+
+About Business Unit
+
+IBM has a global presence, operating in more than 175 countries with a broad-based geographic distribution of revenue. The company’s Global Markets organization is a strategic sales business unit that manages IBM’s global footprint, working closely with dedicated country-based operating units to serve clients locally. These country teams have client relationship managers who lead integrated teams of consultants, solution specialists and delivery professionals to enable clients’ growth and innovation. By complementing local expertise with global experience and digital capabilities, IBM builds deep and broad-based client relationships. This local management focus fosters speed in supporting clients, addressing new markets and making investments in emerging opportunities. Additionally, the Global Markets organization serves clients with expertise in their industry as well as through the products and services that IBM and partners supply. IBM is also expanding its reach to new and existing clients through digital marketplaces.
+
+Your Life @ IBM
+
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+About the job
+Sayurbox is Indonesia’s leading farm-to-table e-commerce grocery, providing thousands of affordable and high-quality vegetables, fruits, meats, seafood, and grocery items sourced directly from local farmers, producers, and suppliers.
+
+Sayurbox’s vision is to make fresh produce accessible and affordable to end consumers.
+
+To achieve our vision and missions, we require our team to be aligned with our values :
+
+Customer-obsessed
+Extreme ownership
+Growth mindset
+Impactful Collaboration
+
+Job scope including, but not limited to:
+
+Build Sayurbox data team according to targeted business growth and requirements
+Identify and prioritize user data requirements from all departments to create clean dashboard for analysis
+Evaluate and build reliable and scalable data infrastructure
+Build Sayurbox prediction model and engine
+
+Qualification:
+
+Proven experience in business intelligence (BI)/data science or a related field
+Experience in building predictive model or similar field
+Experience with artificial intelligence or machine learning is an advantage
+Cooperative person and can thrive in team driven
+Good interpersonal and communication skill to address technical problem early in the process
+About the job
+A US-based company that has established itself as the world's leading provider of shared electric vehicles to reduce carbon emissions is looking for a Data Scientist. The selected candidate will be working on product analytics, payment fraud experience, etc. The company provides accessible micro-mobility to users with their shared e-vehicle solutions, thereby connecting countries & communities. They have managed to secure fundings worth more than $940 mn so far. This will be a full-time, long-term role requiring 6+ hours overlap with the PST time zone. It is an excellent opportunity for those who would like to utilize their expertise to contribute to building an all-electric future.
+
+Job Responsibilities:
+
+Develop a deep understanding of a particular business problem and propose solutions for improvements
+Perform statistical analysis to derive insights from the data and communicate findings
+Guide the decisions with experimentation and in-depth analysis
+Build models to optimize business decisions
+Integrate metrics and build data pipelines for accessible insights
+
+Job Requirements:
+
+MS in Economics, Statistics, Applied Mathematics, or other quantitative fields - Ph.D. is a plus
+5+ years of industry experience as a data scientist
+Proficient in SQL and solid expertise in Python
+Hands-on experience with data pipelines and visualization tools
+Profound, practical understanding of probability and statistics, including causal inference
+Sound knowledge of machine learning algorithms and practical experience with them is a plus
+Ability to communicate technical concepts in a clear and concise manner
+Great product intuition and capable of turning insights into meaningful deas
+Strong communication skills with a steady record of collaborating across multiple teams
+Fluent in written and spoken English
+About the job
+Responsibilities
+Build Data Visualization (Business Intelligence Reports/Dashboard)
+Gather technical requirements, design technical solution, and create the documentation
+Be responsible for operation, including troubleshooting and escalation to operation support
+Ensure that delivered data to business user is valid and comply with SLA
+Analyze and resolve any issue on data (incomplete, incorrect, inconsistent)
+Provide recommendation to business users on what data is more valuable for business users
+Requirements
+S1 Degree in Computer/Informatics/Engineering
+Minimum 2 years experience as Data Visualization developer. Preferable experience in using Power BI and Tibco Spotfire
+Expert in SQL query. Preferable experience in ETL development as well
+Working as team in agile (scrum) development life cycle
+Communicative. Fluent in English
+About the job
+This job is sourced from a job board. Learn more
+Extract data from various sources to design the analysis to come up with reports that help solve the business problems.
+Assist in building the analytical component to conduct deep-dive analysis of all data deriving.
+Work with cross-functional teams for collaboration to optimize business activities.
+Execute analytical projects and understand analytical methods particularly as it relates to sales, operations, and marketing.
+Minimum Qualifications
+Final year student, preferably in an analytical field, e.g Statistics, Mathematics, or Engineering.
+Good understanding with one or more languages for querying (e.g. SQL).
+Understanding of Excel (IF, Pivot, VLOOKUP).
+Familiar with data visualization tools (Tableau, Power BI, Google Data Studio, etc).
+Analytical mindset and ability to see the big picture.
+Detail-oriented and must have an aptitude for solving unstructured problems.
+Excellent communication skills on quantitative topics, able to tell a story with data.
+Ability to work effectively in responding to deadlines.
+Experience with Python, R or Google Analytics is a big plus.
+About the job
+This job is sourced from a job board. Learn more
+OVERVIEW Bachelor’s degree in Computer Science or Information System or related field. Minimum five years experienced in related field. A team player Strong attention to detail and constant drive to learn Hard working, fun and responsible person
+
+RESPONSIBILITIES Development of high quality database solutions. Responsible for designing, development, and implementation of database systems. Responsible for the full range of data warehouse development. Provide database support services at all times to ensure continuous system availability. Implement security features to protect and secure database systems.
+
+QUALIFICATIONS Strong knowledge of SQL Server Ability to develop complex database design and development in cross database using SQL and SSIS. Understanding of Big Data knowledge is a plus and preferred. Good logic, communication skills and able to solve problems quickly.
+About the job
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Overview:
+
+The Agoda Content department is currently looking for a curious and questioning self-starter and proactive analyst, who will help drive decision making with insights from content, marketing and partner performance data.
+
+You will get the opportunity to own analytical projects to direct our department’s focus, and prioritize our actions. By joining Agoda, you will become part of a truly international team, with leading experts of different backgrounds coming from 50+ countries around the world. This is a genuine opportunity to gain valuable experience in a challenging and cutting-edge tech environment. The ideal candidate would have a passion for high-converting content, great user-experience, data and analysis tools and methods. This position reports to the Associate Director of Content Operations, in Bangkok, Thailand.
+
+Main responsibilities:
+
+Understand Content goals and KPIs and be able to align reports and insights based on them. Identify and investigate trends, anomalies and opportunities to improve Agoda’s Content strategy
+Identify content opportunities that drive customer value, bookings and conversion
+Help build business cases around the opportunity and get buy-in from stakeholders
+Ensure appropriate data/tools/dashboards to measure execution and enable deeper analysis
+Track execution and report up in regular updates
+Work with product, data/BI team and IT to create data resources and build appropriate reporting
+Work with Content team leads to understand their business needs and identify opportunities in terms of team actions prioritization and focus
+Use multiple data sources to report Content projects insights and impact; support Content tests and experiments
+Encourage and train the Content team in best practice use of Agoda data, analysis techniques and interpretation
+Coordinate with other Cross Functional departments like Analytics, Partner Services, and Product Owners
+Use Web-Analytics for Research and Analysis
+
+Requirements:
+
+Bachelor degree or higher
+2+ years of relevant experience
+Experience / knowledge in statistics, SQL, Python/R, Tableau and advanced Excel – required
+Ability to demonstrate data manipulation using data warehouse and create meaningful insight and visualization
+Experience / knowledge in Vertica and / or Impala – advantage
+Experience in generating data and / or preparing experiments for product development – advantage
+
+Professional characteristics:
+
+Attentive to detail and committed to data integrity
+Keen and curious nature; able and willing to share your opinion
+Organized; able to manage multiple, competing priorities and deliver results under tight deadlines
+Able to communicate effectively; fluent in English – both spoken and written
+
+#STRA#ANLS#MRKT#3 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #washdc #tirana #yerevan #sydney #melbourne #perth #vienna #graz #linz #baku #minsk #brussels #antwerp #ghent #charleroi #liege #saopaolo #sofia #toronto #vancouver #montreal #shanghai #beijing #shenzhen #zagreb #cyprus #prague #Brno #Ostrava #copenhagen #cairo #alexandria #giza #estonia #helsinki #paris #nice #marseille #rouen #lyon #toulouse #tbilisi #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #dublin #telaviv #milan #rome #naples #turin #palermo #venice #bologna #florence #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #amman #irbid #riga #beirut #tripoli #vilnius #luxembourg #kualalumpur #malta #chisinau #amsterdam #oslo #jerusalem #manila #warsaw #krakow #sintra #lisbon #porto #braga #cascais #loures #amadora #almada #doha #alrayyan #bucharest #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #belgrade #singapore #bratislava #capetown #johannesburg #seoul #barcelona #madrid #valencia #seville #bilbao #malaga #oviedo #alicante #laspalmas #zaragozbanga #stockholm #zurich #geneva #basel #taipei #tainan #taichung #kaohsiung #Phuket #bangkok #istanbul #ankara #izmir #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #sanaa #taiz #aden #gibraltar #marrakech #lodz #wroclaw #poznan #Gdansk #szczecin #bydgoszcz #lublin #katowice #rio #salvador #fortaleza #brasilia #belo #belem #manaus #curitiba #portoalegre #saoluis data representation data analysis SQL data analytics analytics python (programming language) data mining data science r (programming language) tableau analytical skills data visualization databases business analysis business intelligence (bi) microsoft sql server machine learning statistics microsoft power bi java finance shopee traveloka google facebook ctrip trip.com makemytrip grab amazon pandas (software) artificial intelligence (ai) information technology capital one accenture upwork deloitte mckinsey bain microsoft uber lyft gojek lazada alibaba shopify expedia skyscanner
+
+Equal Opportunity Employer
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+About the job
+A rapidly-growing healthtech platform that aims to transform the lives of Cancer patients is looking for a Data Scientist. The selected candidate must have prior experience building environments or working with data-driven statistical models. The platform enables caretakers and patients to keep track and organize their schedules, needs, and support. This is a great opportunity for developers who have prior experience working in the healthcare industry.
+
+Job Responsibilities:
+
+Analyze and describe the data for internal and external clients
+Prepare analytic summaries that will be utilized to guide future investments
+Produce innovative insights from the data, use powerful statistical and AI/ML approaches
+Create models to boost enrollment and participation
+Collaborate with information architects, platform architects, data scientists, and product management on solution requirements to design solutions
+Work with the quantitative teams to figure out what data is needed
+Participate in the development of solutions that allow for the efficient and reliable extraction of information from all healthcare, device, and behavior data
+Develop analytical tools to process and generate insights or suggestions from both structured (healthcare data, EHR, PROs, Devices, etc.) and unstructured (notes, Radiology, etc.) data
+Participate in the development, implementation, and quality assurance of products
+Make suggestions for process improvements in terms of data gathering, consumption, and storage
+Resolve high-impact issues/projects by examining complicated business processes, system processes, and organizational standards and procedures in detail
+Ensure that data management policies and procedures are followed
+Collaborate in a fast-paced environment with globally located Agile teams
+Analytical tools will be evaluated, and recommendations made to take advantage of emerging analytical cloud capabilities
+Assume personnel responsibilities for direct reports (e.g., mentorship, performance evaluations, or hiring)
+Supervise data science agile teams to ensure that sprint and program increment goals are met
+Participate in business partner engagement, relationship management, and cross-group planning among technology leaders and peers
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 4+ years of relevant experience as a data scientist
+Experience as a Data Scientist that can be demonstrated
+Extensive experience working with Python
+Strong statistics and mathematics background
+Experience with multiple mission-critical applications on big data platform Experience with batch and real-time data pipelines in a DevOps environment
+Ability to build and maintain excellent collaborative connections with company stakeholders at all levels
+Excellent written and vocal communication abilities in English
+Expert in presenting complex issues, persuading others, and executing with timely/actionable follow-up
+About the job
+We think you also hate when travel app is giving you a headache, right? A slight misinformation can ruin the trip.
+
+That is exactly what we are tackling as t-fam! Making sure that our 17+ million users have the best experience in crafting their own adventure.
+
+Job Descriptions:
+
+To help on the task delivery of Business Intelligence (report and analysis) and understand the table relations in the Data Warehouse
+Contribute on task delivery such as performing descriptive analysis, and enhancing dashboard/query for data warehouse
+Get deeper understanding of ideal Business Intelligence Architecture in the OTA industry
+Requirements
+
+Minimum a third year undergraduate student
+Willing to do internship for at least 6 months, starting soon
+Have experience as a Business Intelligence/ Data Analyst Intern is good to have
+Familiar with SQL and Data Warehousing
+Familiar with reporting tools (e.g Tableau, PowerBI, etc)
+Familiar with Python is a value-added
+In the event that you haven’t received any updates after 3 weeks, your data will be kept and we may contact you for another career destination. Meanwhile, discover more about tiket.com on Instagram, LinkedIn, or YouTube.
+About the job
+A pharmaceutical client is seeking a Data Scientist (Freelance) to support their product, sales, leadership and marketing teams with insights gained from analyzing company data and guide business decisions.
+
+This is a remote part-time opportunity.
+
+Responsibilities
+
+Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.
+Develop company A/B testing framework and test model quality.
+
+Requirements:
+
+Proven experience as a Data Scientist or Data Analyst.
+Deep understanding of statistics, regressions, and mixed models.
+Experience using business intelligence tools (e.g. Tableau or PowerBI) to create visualizations.
+Experience with Excel and Visual Basic.
+Experience working with R.
+Knowledge of R, SQL, and Python is a plus.
+Knowledge of machine learning techniques and applications is a plus.
+Excellent communication and presentation skills.
+
+Powered by JazzHR
+
+lAsOuaE35G
+About the job
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Overview:
+
+The Agoda Content department is currently looking for a curious and questioning self-starter and proactive analyst, who will help drive decision making with insights from content, marketing and partner performance data.
+
+You will get the opportunity to own analytical projects to direct our department’s focus, and prioritize our actions. By joining Agoda, you will become part of a truly international team, with leading experts of different backgrounds coming from 50+ countries around the world. This is a genuine opportunity to gain valuable experience in a challenging and cutting-edge tech environment. The ideal candidate would have a passion for high-converting content, great user-experience, data and analysis tools and methods. This position reports to the Associate Director of Content Operations, in Bangkok, Thailand.
+
+Main responsibilities:
+
+Understand Content goals and KPIs and be able to align reports and insights based on them. Identify and investigate trends, anomalies and opportunities to improve Agoda’s Content strategy
+Identify content opportunities that drive customer value, bookings and conversion
+Help build business cases around the opportunity and get buy-in from stakeholders
+Ensure appropriate data/tools/dashboards to measure execution and enable deeper analysis
+Track execution and report up in regular updates
+Work with product, data/BI team and IT to create data resources and build appropriate reporting
+Work with Content team leads to understand their business needs and identify opportunities in terms of team actions prioritization and focus
+Use multiple data sources to report Content projects insights and impact; support Content tests and experiments
+Encourage and train the Content team in best practice use of Agoda data, analysis techniques and interpretation
+Coordinate with other Cross Functional departments like Analytics, Partner Services, and Product Owners
+Use Web-Analytics for Research and Analysis
+
+Requirements:
+
+Bachelor degree or higher
+2+ years of relevant experience
+Experience / knowledge in statistics, SQL, Python/R, Tableau and advanced Excel – required
+Ability to demonstrate data manipulation using data warehouse and create meaningful insight and visualization
+Experience / knowledge in Vertica and / or Impala – advantage
+Experience in generating data and / or preparing experiments for product development – advantage
+
+Professional characteristics:
+
+Attentive to detail and committed to data integrity
+Keen and curious nature; able and willing to share your opinion
+Organized; able to manage multiple, competing priorities and deliver results under tight deadlines
+Able to communicate effectively; fluent in English – both spoken and written
+
+#STRA#ANLS#MRKT#3 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #washdc #tirana #yerevan #sydney #melbourne #perth #vienna #graz #linz #baku #minsk #brussels #antwerp #ghent #charleroi #liege #saopaolo #sofia #toronto #vancouver #montreal #shanghai #beijing #shenzhen #zagreb #cyprus #prague #Brno #Ostrava #copenhagen #cairo #alexandria #giza #estonia #helsinki #paris #nice #marseille #rouen #lyon #toulouse #tbilisi #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #dublin #telaviv #milan #rome #naples #turin #palermo #venice #bologna #florence #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #amman #irbid #riga #beirut #tripoli #vilnius #luxembourg #kualalumpur #malta #chisinau #amsterdam #oslo #jerusalem #manila #warsaw #krakow #sintra #lisbon #porto #braga #cascais #loures #amadora #almada #doha #alrayyan #bucharest #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #belgrade #singapore #bratislava #capetown #johannesburg #seoul #barcelona #madrid #valencia #seville #bilbao #malaga #oviedo #alicante #laspalmas #zaragozbanga #stockholm #zurich #geneva #basel #taipei #tainan #taichung #kaohsiung #Phuket #bangkok #istanbul #ankara #izmir #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #sanaa #taiz #aden #gibraltar #marrakech #lodz #wroclaw #poznan #Gdansk #szczecin #bydgoszcz #lublin #katowice #rio #salvador #fortaleza #brasilia #belo #belem #manaus #curitiba #portoalegre #saoluis data representation data analysis SQL data analytics analytics python (programming language) data mining data science r (programming language) tableau analytical skills data visualization databases business analysis business intelligence (bi) microsoft sql server machine learning statistics microsoft power bi java finance shopee traveloka google facebook ctrip trip.com makemytrip grab amazon pandas (software) artificial intelligence (ai) information technology capital one accenture upwork deloitte mckinsey bain microsoft uber lyft gojek lazada alibaba shopify expedia skyscanner
+
+Equal Opportunity Employer
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+About the job
+A rapidly-growing company providing convenient design services for marketing teams is looking for a Data Scientist. The candidate will be responsible for creating algorithms and predictive models to extract the data and provide insights relevant to the business needs. The company is trusted by leading organizations including Okta, Microsoft, Cognizant, and hundreds more, with over $2 mn in funding. This is a great opportunity to collaborate with the team and contribute to solving problems creatively to reach ambitious goals. The role requires at least 6 hours of overlap with PST.
+
+Job Responsibilities:
+
+Extract data from multiple sources and communicate findings for useful insights
+Use these insights to influence how an organization approaches business challenges
+Leverage a combined knowledge of computer science and applications, modelling, statistics, analytics, and maths to solve problems
+Sift and analyze data from multiple angles, looking for trends that highlight problems or opportunities
+Communicate important information and insights to business and IT leaders
+Make recommendations to adapt existing business strategies
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Computer Science (or equivalent experience)
+Must be experienced with SQL
+Proficiency with JavaScript and Angular is nice to have
+Familiarity with common data science toolkits and data management tools
+Ability to analyze data for trends and patterns, and make interpretations with a clear objective in mind
+Familiarity with data management tools
+Capable of working independently with team members from different backgrounds
+About the job
+Binar Academy aims to unlock and channel human potential so we can help the world turn into a better place. One of the ways we strive to do that is to channel potential talents to impactful opportunities using our very own job connector, Binar Job Connect.
+
+Binar Job Connect has connected up to 250 talents & candidates; whether from young & aspirational fresh graduates to tech-savvy team leaders, individuals who decided to start from scratch, and junior engineers to skilled product managers to our experienced hiring partners. Binar Job Connect provides various options for employment, as we intend that everyone processed by us can choose the best career track for them.
+
+We are currently looking potential Data Engineer / ETL Developer for our Hiring Partners: Kredit Plus and Prudential
+
+Here are the requirements :
+Min. 1-year experience
+Strong understanding of SDLC
+Strong in Data Modeling (RDBMS, NoSQL, Caching)
+Strong understanding of T-SQL
+Familiar with ETL Tools (SSIS, Talend)
+Familiar with Messaging
+
+We look forward to seeing your CV! ;)
+About the job
+A US-based virtual card and investment research platform, is looking for an API/Data Engineer. The engineer will be primarily responsible for working with data engineers and engineering leads to integrate various third-party data sources into the platform. The company helps customers to get transparent, real-time market data to make more informed decisions on marketing investments and has managed to raise $5.6mn in funding so far. This role requires some time overlap with the PST time zone.
+
+Job Responsibilities:
+
+Integrate various third-party data sources into the platform
+Work with a cross-functional team and the data engineers and engineering leads
+Take charge of the OAuth work, data pipeline work, and API work to surface relevant data sets in various formats
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+3+ years of relevant experience as a data engineer/API engineer
+Experience with Python, PostgreSQL, API engineering, and AWS
+Strong knowledge of SQLAlchemy, FastAPI, Pydantic, AWS Lambda, AWS Redshift is nice to have
+Excellent communication and interpersonal skills
+Fluent in spoken and written English
+About the job
+A US-based fintech company that provides mortgage closing services is looking for a Data Scientist. The selected candidate will be responsible for building machine learning models to support the core products. The company is on a mission to enhance the real estate closing process with efficiency and transparency. It has raised a funding of over $250 mn so far. This will be a long-term, full-time opportunity for those who want to work with a well-established company.
+
+Job Responsibilities:
+
+Build Machine Learning models to support core products of the company
+Improve performance of document classification and annotation prediction models.
+Research and prototype new applications for Machine Learning
+Perform exploratory analysis on new product areas
+Build and maintain production quality machine learning models
+Investigate and organize disparate data sources for machine learning work
+Drive high impact projects throughout the organization
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 2+ years of relevant experience as a Data scientist
+Good understanding of advanced Machine Learning techniques
+Proficiency in Python, SQL, and cloud technologies like AWS
+Experience with Computer Vision, NLP, and or Deep Learning
+Fluent English communication skills to collaborate with engineering managers
+Passion for learning new technologies, self-starter, and problem-solving skills
+About the job
+As a data scientist in Bukalapak, you will work closely with stakeholders to ensure that we are making data-driven decisions. You will apply analytical and statistical techniques not only to answer questions but also to generate good questions. We believe that a simple answer to a good question is better than a rigorous answer to a bad question. The successful candidate will leverage statistics, machine learning, econometrics, causal inference and other tools to answer the problem at hand.
+
+Responsibilities:
+Identifying potential growth opportunities through data exploration & analysis
+Collaboratively work with stakeholders to define problem and to provide actionable insight based on data-driven approached
+Promoting self-service data driven culture within organisation
+Developing scalable data products (predictive model, perscriptive dashboard, etc) that drives businesses/products growth
+Designing controlled experiment to determine incremental effect of business & products initiatives
+
+Basic Qualifications:
+2+ years of professional experience in Data Science, Data Analytics, Business Analytics, or related field working with Data
+Experience in crafting engaging and compelling data insights for business stakeholders and diverse audience.
+Bachelor's degree in a quantitative discipline such as Statistics, Engineering, Sciences, Economics or Mathematics
+Experience in SQL and scripting/statistical programming language(ex: python, R)
+Preferred Qualifications
+Master's degree or PhD in a quantitative discipline such as Statistics, Engineering, Sciences, or equivalent practical experience.
+Solid knowledge in root cause analysis, statistical, time-series, or predictive modeling skills.
+Experience in managing multiple projects with competing priorities
+Strong ability to distill and translate business cases into clearly defined data analytics problem
+Prior experience in a technology company
+Experience in data pipeline orchestration with Airflow, Jenkins, or related technologies
+
+Bukalapak is an equal opportunity employer. Our hiring committee considers all applicants based on their merits and qualifications for each position. Bukalapak does not discriminate applicants on the basis of their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or any other characteristics protected by applicable law. We embrace diversity and encourage inclusion because we believe that to help create A Fair Economy For All, we need to build a workplace for all #BukalapakForAll
+About the job
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+In this role, you’ll get to:
+
+Performance tracking and modeling: Analyze data generated by supply and supply teams, develop models we can use for performance tracking and optimization, draw recommendations on your analysis
+Support and participation in projects: Provide input on initiatives to reach business targets of the strategic projects you will be working on, run and then assess your proposed actions in collaboration with the relevant teams
+Building tools: Create and deliver dashboards, automated reports, calculators and data feeds to optimize and improve processes related to our products and operations
+
+What you’ll need to succeed:
+
+Minimum 3 yearsof experience working in business analysis / data analytics / business intelligence/ consulting or financial modelling roles in e-commerce, tech, consulting or financial services companies
+Bachelor’s Degree or higher from a top university in a business analytics, engineering, statistics, quantitative, data or finance subject (e.g., BI, science, math or financial analysis)
+Ability to communicate fluently in English
+Familiarity with SQL, Tableau, advanced Excel skills, which you were using on real work projects before
+Proven track record in using data to measure performance, build reports and tools and make decisions
+Intellectual curiosity, ability to learn fast
+Ability to work under pressure in a fast-paced/rapidly changing environment
+
+It’s Great if you have:
+
+Experience with complex analytics and statistical/machine learning techniques using R/Python/Spark
+Experience building automated analytical processes and functionality
+Master’s degree in statistics, operations research, or data science
+
+#STRA#ANLS#MRKT#3 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #washdc #tirana #yerevan #sydney #melbourne #perth #vienna #graz #linz #baku #minsk #brussels #antwerp #ghent #charleroi #liege #saopaolo #sofia #toronto #vancouver #montreal #shanghai #beijing #shenzhen #zagreb #cyprus #prague #Brno #Ostrava #copenhagen #cairo #alexandria #giza #estonia #helsinki #paris #nice #marseille #rouen #lyon #toulouse #tbilisi #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #dublin #telaviv #milan #rome #naples #turin #palermo #venice #bologna #florence #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #amman #irbid #riga #beirut #tripoli #vilnius #luxembourg #kualalumpur #malta #chisinau #amsterdam #oslo #jerusalem #manila #warsaw #krakow #sintra #lisbon #porto #braga #cascais #loures #amadora #almada #doha #alrayyan #bucharest #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #belgrade #singapore #bratislava #capetown #johannesburg #seoul #barcelona #madrid #valencia #seville #bilbao #malaga #oviedo #alicante #laspalmas #zaragozbanga #stockholm #zurich #geneva #basel #taipei #tainan #taichung #kaohsiung #Phuket #bangkok #istanbul #ankara #izmir #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #sanaa #taiz #aden #gibraltar #marrakech #lodz #wroclaw #poznan #Gdansk #szczecin #bydgoszcz #lublin #katowice #rio #salvador #fortaleza #brasilia #belo #belem #manaus #curitiba #portoalegre #saoluis data representation data analysis SQL data analytics analytics python (programming language) data mining data science r (programming language) tableau analytical skills data visualization databases business analysis business intelligence (bi) microsoft sql server machine learning statistics microsoft power bi java finance shopee traveloka google facebook ctrip trip.com makemytrip grab amazon pandas (software) artificial intelligence (ai) information technology capital one accenture upwork deloitte mckinsey bain microsoft uber lyft gojek lazada alibaba shopify expedia skyscanner
+
+Equal Opportunity Employer
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+About the job
+We think you also hate when travel app is giving you a headache, right? A slight misinformation can ruin the trip.
+
+That is exactly what we are tackling as t-fam! Making sure that our 17+ million users have the best experience in crafting their own adventure.
+
+The ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must have a proven ability to drive business results with their data-based insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+
+Your main duties in flying with us:
+
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions
+Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies
+Develop custom data models and algorithms to apply to data sets
+Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes
+Develop company A/B testing framework and test model quality
+Coordinate with different functional teams to implement models and monitor outcomes
+Develop processes and tools to monitor and analyze model performance and impact to business
+Mandatory belongings that you must prepare:
+
+Min. 3 years of experience in data analysis and modeling
+A Bachelor in Computer Science, Statistics, Mathematics, or another quantitative field
+Strong problem-solving skills with an emphasis on product development
+Proficient in programming skills (R, Python, SQL, etc.) for data acquisition, processing, and analysis from large data sets
+Knowledge of data science concepts (regression, classification, clustering, properties of distributions, statistical tests, and proper usage, etc.) and experience with applications
+Knowledge of a variety of machine learning techniques (Random forest, SVM, artificial neural networks, etc.) and their real-world advantages/drawbacks
+Excellent written and verbal communication skills for coordinating across teams
+A drive to learn and master new technologies and techniques
+
+In the event that you haven’t received any updates after 3 weeks, your data will be kept and we may contact you for another career destination. Meanwhile, discover more about tiket.com on Instagram, LinkedIn, or YouTube.
+About the job
+A leading global market and data company, providing pharmaceutical firms with current and comprehensive databases of drug costs and insurance coverage, is looking for Full-stack-Python Django Engineer. The candidate will work with large amounts of data related to the pharmaceutical industry and derive key insights across several data types. The company has built a large international network across continents. The selected candidate will have the chance to work with a team of experts and programmers spanning across the globe. It requires a minimum of 4+ hours with EST.
+
+Job Responsibilities:
+
+Work with large amounts of data on pharmaceutical pricing and reimbursement, using proprietary methods
+Extract key insights across several data types
+Learn and document vital techniques on ensuring data accuracy
+Gain insight into how the pharmaceutical industry operates on pricing and reimbursement of pharmaceuticals
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Computer Science (or equivalent experience)
+Must be experienced with Python (Django), Airflow and ETL
+Experience with Pharmaceutical products as well as a Data science background
+Strong attention to detail and methodical problem-solving skills
+Ability to communicate complex concepts clearly, both orally and written
+Capable of managing competing priorities and making tasks efficient
+About the job
+Job Description:
+
+Life at Grab:
+
+At Grab, every Grabber is guided by The Grab Way, which spells out our mission, how we believe we can achieve it, and our operating principles - the 4Hs: Heart, Hunger, Honour, and Humility. These principles guide and help us make decisions as we work to create economic empowerment for the people of Southeast Asia.
+
+Get to Know the Team:
+
+East Java is the second largest city in Indonesia and very dynamic, and you will be part of the team to manage the supply and demand in the area. As we’re enjoying growing the city, data and numbers will always be part of the journey. The team's key success factors are all about how to understand the insight from consumers, customers, and partners and utilise that knowledge to make the most of the opportunities and navigate the business forward. If all these things sound right to you, then you should join our team!
+
+Get to Know the Role:
+
+Analyst, Data PE is the data centre of the city. You will be responsible to support all functions related to number crunching, data analysis as well as tracking and reporting. You would need to fully collaborate with the team in order to build a data and number-driven strategy. This position is also responsible for bridging the city operation team to include but not limited to tech, engineering, marketplace, product, etc. Analytical thinking and problem-solving skills are what you need to help grow the business.
+
+The Day-to-Day Activities:
+
+You will work with large data sets and derive business recommendations through compelling statistical evidence-based research and visualisation.
+Run SQL queries, provide reports or updates
+Define key metrics to evaluate the health of our business teams & programs
+Discover & drive program initiatives through data-driven recommendations and partner with cross-functional teams to implement/launch them
+Manage data models to bring order and insight to complex data sets
+Leverage existing Python abstractions and/or other visualisation tools to design and develop new user-facing tools & dash-boarding systems to empower partner teams
+Communicate findings from data and analyses to stakeholders, influencing them to make the best decisions possible
+Design market intelligence metrics and performance measurement dashboards for Grab Transport and Delivery
+Develop frameworks to analyse business problems, develop hypotheses, mine data, deliver recommendations, and assess the impact of proposed solutions
+Perform analysis & research plans to support the decision-making process
+
+The Must-Haves:
+
+You have Heart, Hunger, Honour, and Humility
+Bachelor's degree in a quantitative field (e.g. Statistics, Mathematics, Computer Science, Economics, Engineering), or equivalent experience/expertise
+Good written and spoken English
+1-3 years of work experience in consulting or a technology-related analytical role
+Strong analytical skills, with experience solving ambiguous problems using data and providing practical business insights
+Strong process-oriented skills and drive to find the most efficient way to do things without sacrificing a high quality of work and/or results
+Proficiency in SQL, Python, PowerBI, and spreadsheet softwares
+Ability to partner cross-functionally with engineering, marketing, operations, product management, and/or sales
+
+The Nice-to-Haves:
+
+Experience in working with large data sets and distributed computing tools (Presto, Athena) is a plus
+Experience in building dashboards with visualisation tools such as Microsoft Power BI/ Tableau is a plus
+
+Our Commitment:
+
+We recognize that with these individual attributes come different workplace challenges, and we will work with Grabbers to address them in our journey towards creating inclusion at Grab for all Grabbers.
+About the job
+Want to build a stronger, more sustainable future and cultivate your career? Join Cargill's global team of 155,000 employees who use new technologies, dynamic insights and over 154 years of experience to connect farmers with markets, customers with ingredients, and people and animals with the food they need to thrive.
+
+Job Purpose and Impact
+
+The Management Information and Business Intelligence Analyst will provide technical data management ability to support the sourcing, transforming and presenting data to business. In this role, you will focus on the support and maintenance of our information products and the business intelligence solutions availability to business. You will be a part one of Cargill’s growing businesses based out of Indonesia. You will be key in identifying and enabling digitalizing opportunities by thoroughly understanding the businesses processes and related data / systems.
+
+Key Accountabilities
+Interact with the business users / SME’s to map out the key business processes, gather requirements and deep dive into related data
+Support data capabilities across teams to enable consistency and quality control of key business data
+Carry out efficient data analysis to derive insights present effectively to the stakeholders
+Ensure that data sourcing, transformation and publishing of data for visualization is maintained at a high standard to deliver on data ambitions
+Build and maintain business intelligence solutions in the form of data visualizations and business reports
+Own the key milestones of project delivery and lead towards successful completion
+Other duties as assigned
+Qualifications
+
+Minimum Qualifications
+Written and verbal proficiency in English and Bahasa
+Bachelor's degree in a related field or equivalent experience
+Proven experience with data analytics/visualization tools (such as Power BI, Tableau)
+Strong understanding of business value creation by leveraging disparate data sourcing and enabling business decisions
+Minimum of two years of related work experience
+Other minimum qualifications may apply
+Preferred Qualifications
+Prior experience in logistics/supply chain and/or agri-related domains (e.g. oil palm, coconut)
+Experience with multiple businesses or international business experience
+Our Offer
+
+We provide a fast paced stimulating international environment, which will stretch your abilities and channel your talents. We also offer competitive salary and benefits combined with outstanding career development opportunities in one of the largest and most solid private companies in the world.
+
+Interested? Then make sure to send us your CV and cover letter in English today:
+
+Follow us on LinkedIn: https://www.linkedin.com/company/cargill
+
+Cargill is committed to being an inclusive employer. Click here to find out more https://careers.cargill.com/diversity/
+About the job
+A US-based early-stage venture fund that is investing in companies through data-driven evidence and analysis, is looking for a Data Scientist. The selected candidate will be a member of the team that develops and analyses machine learning models to discover investment candidates, while also being in charge of building the investment analytics platform. The firm uses advanced algorithms to narrow down on promising B2B, AI, cloud storage, and eCommerce startups to invest in remotely. This will be a full-time role that requires 4+ hours overlap with the PST time zone. This is a great opportunity for developers to work with a leading firm while meeting exciting companies, and amazing entrepreneurs from all over the world.
+
+Job Responsibilities:
+
+Lead the research and development of the company’s latest products and services
+Apply quantitative analysis, data mining, and machine learning techniques to build models that make sense of user needs, usage patterns, factors that drive deeper adoption
+Influence product development, strategy, and roadmap prioritization
+Design and implement machine learning pipelines that improve the company’s data-driven decision-making capabilities
+Tackle complex problems that require innovative, elegant, and creative solutions
+
+Job Requirements:
+
+B.S., M.S., or Ph.D. in Computer Science, Statistics, Information Science, or other related majors
+At least 2+ years of relevant experience as a Data Scientist
+Extensive knowledge and experience working with Python
+Strong knowledge of data structures, algorithms, and system architecture
+Relevant experience with large data set analysis
+Experience with Python and machine learning applications (Scikit, Tensorflow, etc.) is nice to have
+Experience as an entrepreneur or in the venture ecosystem is desirable
+Strong English communication skills
