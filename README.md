@@ -12,10 +12,10 @@ Items that are scraped by this code are:
 - work time (internship, part-time, contract, or full-time), and 
 - job description. 
 
-The code successfully scrapes 43 job offers from 2 pages and pulls out the data into a .csv and .txt file on 10/31/2022.
+The code successfully scrapes 43 job offers from 2 pages and pulls out the data into a .csv and .txt file on 10/31/2022. [Click to see the results](https://github.com/mhfaisaluddin/Learn-Selenium-Scrape/blob/main/job_offers.csv)
 
 ## File description
 - user_credentials.txt, as a container for your LinkedIn account username & password.
 - scrapeCode.py, as the code for data scraping LinkedIn job posts.
-- job_offers.csv, as the stored data from the web scraping.
+- job_offers.csv, as the stored data from the web scraping. 
 - job_descriptions.txt, as the full description of all offers.
